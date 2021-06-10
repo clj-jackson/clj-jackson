@@ -6,5 +6,5 @@
 
 Current projects/goals:
 
-- I'm planning on attempting Ludum Dare 49, by myself
+- I'm planning on attempting [Ludum Dare 49](https://ldjam.com/), by myself
 
