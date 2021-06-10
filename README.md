@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Connor Jackson (@clj-jackson)
 - 👀 I’m interested in game development and software engineering
+- ⏰ I have been programming for approximately 3 years majoritively in python, I have some more limited experience in C# for Unity, Flask, javascript, SQL and HTML
 - 🌱 I’m currently learning python/have experience in python programming
 - 🚁 I'm currently looking into C# for Unity and Flask/django for python
-
-<!---
-clj-jackson/clj-jackson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
