@@ -6,5 +6,7 @@
 
 Current projects/goals:
 
-- I'm planning on attempting [Ludum Dare 49](https://ldjam.com/), by myself
+- I'm planning on attempting [Ludum Dare 49](https://ldjam.com/), most likely the Compo version
+- I will be hosting my own private Game Jam during December around Christmas time
+- I have a discord server dedicated to Game Dev, everyone in it is new to game dev stuff so I'm using it as a platform to encourage others and learn more myself
 
