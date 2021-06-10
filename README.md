@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Connor Jackson (@clj-jackson)
 - 👀 I’m interested in game development and software engineering
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python/have experience in python programming
 - 🚁 I'm currently looking into C# for Unity and Flask/django for python
 
 <!---
